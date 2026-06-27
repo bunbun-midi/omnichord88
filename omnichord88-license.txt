@@ -1,0 +1,40 @@
+Custom Commercial Derivative Profit-Sharing License (CDPSL v1.0)
+
+Copyright (c) 2026 bunbun-midi
+
+Definitions
+"Software" refers to the original codebase provided by the Licensor.
+"Modification" means any alteration, extension, or derivative work based on the Software.
+"Analysis" means any inspection, reverse engineering, benchmarking, or study of the Software for the purpose of developing or improving a commercial product.
+"Commercial Use" means any use intended to generate revenue directly or indirectly.
+"Net Profits" means gross revenue derived from the Software or derivative works minus reasonable and documented expenses directly attributable to generating that revenue.
+
+Grant of License
+Permission is granted to use, copy, and modify the Software for personal, non-commercial purposes without restriction.
+
+Commercial Use Condition
+Any party that modifies, analyzes, or incorporates the Software into a commercial product or service must agree to provide the Licensor with fifty percent (50%) of all Net Profits derived from such use.
+
+Reporting and Payment
+Licensee shall:
+
+Maintain accurate financial records related to revenue and expenses associated with the Software or its derivatives.
+
+Provide quarterly reports detailing Net Profits.
+
+Remit 50% of Net Profits to the Licensor within 30 days of the end of each reporting period.
+
+Attribution Requirement
+All copies or substantial portions of the Software, including derivatives, must include this license and proper attribution to the Licensor.
+
+Restrictions
+Failure to comply with the profit-sharing terms automatically terminates this license. Upon termination, the Licensee must cease all use and distribution of the Software and any derivatives.
+
+No Warranty
+The Software is provided "as is", without warranty of any kind, express or implied.
+
+Limitation of Liability
+In no event shall the Licensor be liable for any damages arising from the use of the Software.
+
+Governing Law
+This license shall be governed by federal law applicable to the Licensee and, to the extent not preempted, the laws of the State of California.
